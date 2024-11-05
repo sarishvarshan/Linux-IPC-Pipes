@@ -2,7 +2,7 @@
 
 ### Name: Sarish Varshan V
 ### Register No: 212223230196
-### Date:
+
 
 ## AIM:
 To write a C program that illustrate communication between two process using unnamed and named pipes
@@ -77,6 +77,7 @@ buff[n]='\0';
 printf("THE RESULTS OF CLIENTS ARE ...... \n"); write(1,buff,n);
 }
 ```
+![image](https://github.com/user-attachments/assets/f697069b-a33d-4d85-8c72-2b932949f127)
 
 ### 2. C Program that illustrate communication between two process using named pipes using Linux API system calls
 ```
@@ -94,10 +95,12 @@ exit(EXIT_SUCCESS);
 
 ## OUTPUT
 **1.**
-![image](https://github.com/Aishwarya-sankar/Linux-IPC-Pipes/assets/121418444/66ddd85d-1e42-4e54-8289-c851838e22ea)
+![image](https://github.com/user-attachments/assets/32d9c85f-8101-43a1-baa6-9bdf2845da72)
+
 
 **2.**
-![image](https://github.com/BharathCSEIOT/Linux-IPC-Pipes/assets/122793480/2007e2bc-12fa-41b0-81af-afa798be4bb6)
+![image](https://github.com/user-attachments/assets/cd1ede58-398f-47d8-aacd-8efb89a04f05)
+
 
 ## RESULT:
 The program is executed successfully.
